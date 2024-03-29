@@ -10,3 +10,5 @@
 - stage 3: code generation
   - *repeat-until* command
   - *switch* command
+
+#### Note: The nested use of switch command for stage 3 has not been properly implemented yet
